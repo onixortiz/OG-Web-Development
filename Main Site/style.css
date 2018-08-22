@@ -1,5 +1,13 @@
+#minilogo {
+    height: 40px;
+    width: 40px;
+}
 #title{
     background: url(afterglow.png);
     background-size: cover;
     height: 700px;
+}
+#foto-info {
+    height: 300px;
+    width: 240px;
 }
